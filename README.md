@@ -1,3 +1,2 @@
 # vanila-js-projects
-watch projects live
-[color-flipper](https://vanilajs-color-flipper.netlify.app/)
+Color Flipper [click here](https://vanilajs-color-flipper.netlify.app/)
